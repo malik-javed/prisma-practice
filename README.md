@@ -13,4 +13,9 @@ This project demonstrates a Node.js backend using **Prisma ORM** with **MongoDB*
 - cookie-parser
 - dotenv
 
-## 📁 Project Structure
+## 🧪 Features
+
+- User signup
+- Prisma integration with MongoDB
+- JWT token authentication via cookies
+- Secure password hashing
